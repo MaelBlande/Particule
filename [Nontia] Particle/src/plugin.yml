@@ -1,0 +1,7 @@
+name: Particule
+author: Sstrik
+version: 1.0
+main: fr.sstrik.particle.Main
+commands:
+  particule:
+  p:
